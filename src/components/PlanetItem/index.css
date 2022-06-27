@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.sample {
+  color: #ffffff;
+}
+.img {
+  height: 130px;
+  width: 200px;
+}
+.txt-color {
+  color: #ffffff;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.main-heading {
+  color: #05acff;
+}
